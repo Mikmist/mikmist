@@ -9,6 +9,8 @@ I'm a software engineer, and co-founder of [Gyrobian Software & Consulting](http
 
 Furthermore, my experience in software engineering includes projects in the following domains: **Customer Relations Management**, **Student Information Systems**, **Enterprise Process Automation**, **App Development** and **Desktop Applications**. For more information about my experience and skills, please contact me via one of the methods below.
 
+I also love solving programming puzzles such as the yearly Advent of Code and Codeforces.
+
 ### If you need to reach me...
 
 - ✉️ <z.holwerda@gmail.com> (or [zino.holwerda@gyrobian.com](mailto:zino.holwerda@gyrobian.com) for business inquiries)
