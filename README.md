@@ -5,6 +5,7 @@ I'm a software engineer, and co-founder of [Gyrobian Software & Consulting](http
 - *Programming languages* such as Javascript/Typescript, Java, C, D, Python, Bash, and PHP
 - *Databases* such as PostgreSQL, MySQL, MariaDB
 - *Web Frameworks* such as Spring, Django, and Vue
+- *Other Technologies* such as Nginx, Docker, Systemd, Linux
 
 Furthermore, my experience in software engineering includes projects in the following domains: **Customer Relations Management**, **Student Information Systems**, **Enterprise Process Automation**, **App Development** and **Desktop Applications**. For more information about my experience and skills, please contact me via one of the methods below.
 
