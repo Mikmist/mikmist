@@ -2,7 +2,7 @@
 
 I'm a software engineer, and owner of [Gyrobian Software & Consulting](https://www.gyrobian.nl/). I specialize in the following technologies:
 
-- *Programming languages* such as Javascript/Typescript, Java, C, D, Python, Bash, and PHP
+- *Programming languages* such as Javascript/Typescript, Java, C++, C, Rust, Python, Bash, and PHP
 - *Databases* such as PostgreSQL, MySQL, MariaDB
 - *Web Frameworks* such as Spring, Django, and Vue
 - *Other Technologies* such as Nginx, Docker, Systemd, Linux
