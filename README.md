@@ -15,9 +15,11 @@ I also love solving programming puzzles such as the yearly Advent of Code and Co
 
 - ✉️ <z.holwerda@gmail.com> (or [zino.holwerda@gyrobian.com](mailto:zino.holwerda@gyrobian.com) for business inquiries)
 - `Mikmist` on Discord
+- Visit my website https://wwwzinoholwerda.nl
 
 ### Shameless Wall of Self-Promotion
 
 - **Over 3 years** of leading development teams and engineering system specifications.
-- **Over 7 years** of experience in Java programming, and **over 6 years** of experience in web development in Vue2/3 and Spring Boot.
+- **Over 7 years** of experience in Java programming, and **over 6 years** of experience in web development in Vue2/3, Angular and Spring Boot.
 - 🎓 **2 years** of experience as a Teaching Assistant for multiple University-level courses.
+
