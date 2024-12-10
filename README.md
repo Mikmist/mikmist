@@ -15,7 +15,7 @@ I also love solving programming puzzles such as the yearly Advent of Code and Co
 
 - ✉️ <z.holwerda@gmail.com> (or [zino.holwerda@gyrobian.com](mailto:zino.holwerda@gyrobian.com) for business inquiries)
 - `Mikmist` on Discord
-- Visit my website https://wwwzinoholwerda.nl
+- Visit my website https://www.zinoholwerda.nl
 
 ### Shameless Wall of Self-Promotion
 
